@@ -1,15 +1,4 @@
-This repository contains an analytical workflow completed as part of the Big Data course at INRTU.
-The assignment focuses on:
-
-Understanding missing data patterns
-
-Testing whether missingness is MCAR (Missing Completely At Random)
-
-Performing multiple imputation using Predictive Mean Matching (PMM)
-
-Visualizing imputed vs original distributions
-
-Detecting outliers in the imputed dataset
+This repository contains an analytical workflow that focuses on: Understanding missing data patterns, testing whether missingness is MCAR (Missing Completely At Random), performing multiple imputation using Predictive Mean Matching (PMM), visualizing imputed vs original distributions and detecting outliers in the imputed dataset.
 
 The analysis is implemented entirely in R, using widely adopted packages for data cleaning, imputation, visualization, and diagnostics.
 
