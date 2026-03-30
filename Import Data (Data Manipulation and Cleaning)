@@ -1,6 +1,0 @@
-#After uploading the csv file on positcloud, the code below was used to import the data
-data_path <- ("DataSet_No_Details.csv")
-
-df <- read.csv(data_path)
-# Display structure with variable types
-str(df)
